@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "114272895136",
+    "project_id": "flores-47cc0",
+    "storage_bucket": "flores-47cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114272895136:android:bb927a2de2c3c7f5d1c9c5",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114272895136-i3t5s2142vqau4bcuadqfbknfrtnaan5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfdeoFOD7W3H7RWnrLKaJlQ0EUgDvy27Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114272895136-i3t5s2142vqau4bcuadqfbknfrtnaan5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114272895136:android:bfda0cbe1002db01d1c9c5",
+        "android_client_info": {
+          "package_name": "com.realidadaumentada.gercetur07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114272895136-i3t5s2142vqau4bcuadqfbknfrtnaan5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfdeoFOD7W3H7RWnrLKaJlQ0EUgDvy27Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114272895136-i3t5s2142vqau4bcuadqfbknfrtnaan5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
